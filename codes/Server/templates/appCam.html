@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Insert title here</title>
+<style>
+html, 
+body {
+    height: 100%;
+
+}
+*{
+margin:0;
+padding:0;
+}
+</style>
+
+</head>
+<body>
+
+<div id="player" style='height:100%'></div>
+<div id='div1' style='width:100%; height:100%; position:absolute; left:0;top:0;background-color:black;text-align:center;'>
+<h1 style='font-size:50px;color:white'>카메라 연결중입니다</h1>
+<img src='https://upload.wikimedia.org/wikipedia/commons/b/b9/Youtube_loading_symbol_1_(wobbly).gif' width='50' height='50'/>
+</div>
+<script src="https://www.youtube.com/iframe_api"></script>
+<script type="text/javascript">
+  var player;
+  function onYouTubeIframeAPIReady(){
+    player = new YT.Player('player',{
+      width:'100%',
+
+      videoId:'4mNmxmt3W0I'+
+
+
+
+	'?controls=0&frameborder=0&modestbranding=1',
+      playerVars:{'autoplay':1,'playsinline':1},
+      events:{ 'onReady':onPlayerReady }
+    });
+  }
+  function onPlayerReady(e){
+    e.target.mute();
+    e.target.playVideo();
+  }
+</script>
+<script>
+setTimeout(function() {
+  document.getElementById("div1").style.opacity='0';
+}, 5000);
+</script>
+
+</body>
+</html>
