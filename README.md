@@ -15,7 +15,7 @@
 
 # 기능
 
-어항 - 서버 - 앱
+어항(Raspberry Pi, Arduino, 각종 센서) - 서버(Flask) - 앱(App Inventor)
 
 앱에서 어항의 온도, 탁도를 서버로부터 실시간으로 가져온다.
 
