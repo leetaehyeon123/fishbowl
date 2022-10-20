@@ -1,4 +1,4 @@
-# fishbowl management(어항 관리 시스템)
+# 어항 관리 시스템
 
 
 개발 언어 : Python, C
