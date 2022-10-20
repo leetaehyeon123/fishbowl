@@ -49,11 +49,9 @@
 
 
 
-# 작동영상
+# 작동
 
-[![Video Label](http://img.youtube.com/vi/aIbV5xDkS3E/0.jpg)](https://youtu.be/aIbV5xDkS3E)
-
-
+https://youtu.be/aIbV5xDkS3E
 
 
 
