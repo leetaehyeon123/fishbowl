@@ -37,6 +37,18 @@
 
 # 어항 모델링
 
+![image02](https://user-images.githubusercontent.com/61938906/196835959-002fc2f1-5a45-4f16-8042-a796a3296009.png)
+![image03](https://user-images.githubusercontent.com/61938906/196835961-9398fdf8-57ec-481c-9323-270cfb09e3c7.png)
+![image04](https://user-images.githubusercontent.com/61938906/196835966-7ff97a9c-1983-4774-aa8e-db029e5f71a7.png)
+![image05](https://user-images.githubusercontent.com/61938906/196835968-df8481d9-1dfd-4f0f-8beb-2f90f1fbb430.png)
+
+# 이미지
+
+
+
+# 작동영상
+
+https://youtu.be/aIbV5xDkS3E
 
 
 
