@@ -52,7 +52,7 @@
 # 작동
 
 https://youtu.be/aIbV5xDkS3E
-.
+
 
 
 
