@@ -1,6 +1,8 @@
 # 어항 관리 시스템
 
 
+기간 : 22/05/14 ~ 22/06/03
+
 개발 언어 : Python, C
 
 개발 환경 : Flask, App Inventor, Raspberry Pi, Arduino
