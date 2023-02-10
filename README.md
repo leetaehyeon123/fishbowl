@@ -11,7 +11,7 @@
 
 도구 : 라디에이터, 냉각 팬, 아크릴 어항, 먹이 급여기, 카메라, 급수/배수 펌프, 조명
 
-개발 인원 : [이태현](https://github.com/leetaehyeon123/), [강찬구](https://github.com/chan913)
+개발 인원 : [이태현](https://github.com/leetaehyeon123/) , [강찬구](https://github.com/chan913)
 
 
 
